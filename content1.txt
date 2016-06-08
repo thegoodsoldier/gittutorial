@@ -1,3 +1,2 @@
 Some content.
-More content.
 Link zu Feature1.
